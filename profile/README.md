@@ -29,6 +29,6 @@
 
 Looking for example projects to get started with?
 
-Check out our [example repostiories](https://github.com/thirdweb-example).
+Check out our [example repositories](https://github.com/thirdweb-example).
 
 </div>
