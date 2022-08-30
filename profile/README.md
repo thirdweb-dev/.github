@@ -35,10 +35,6 @@
   <a href="https://portal.thirdweb.com/sdk">SDK Docs</a>
 </p>
 
-<br />
-
-<hr/>
-
 ## Example Projects 
 
 Looking for example projects to get started with?
