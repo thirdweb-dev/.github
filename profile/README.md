@@ -2,35 +2,36 @@
 
 ![Thirdweb Examples Header](header-image.png)
 
-Smart contracts you control. Powerful SDKs and intuitive tools for developers. Ship on-chain faster.
+# thirdweb
 
-## Build Contracts
+The full-stack web3 development platform.
 
-- Contracts repo: <a href="https://github.com/thirdweb-dev/contracts">Contracts</a>
-- Learn how to start building smart contracts: <a href="https://portal.thirdweb.com/pre-built-contracts">Prebuilt Contracts</a> •
-  <a href="https://portal.thirdweb.com/extensions">Extensions</a>
+## Products
 
-## Ship Projects
+- [Connect](https://github.com/thirdweb-dev/js): Customizable Connect Wallet modal, embedded wallets for flexible sign-in options, and account abstraction for the smoothest user experiences.
+- [Contracts](https://github.com/thirdweb-dev/contracts): Solidity SDK to build custom contracts, a library of pre-built & audited contracts, and a 1-click deployment flow to any EVM-compatible blockchains.
+- [Engine](https://github.com/thirdweb-dev/engine): Backend wallet creation, nonce management, smart contract interactions, account abstraction support, gasless transactions, and managed infrastructure.
+## Resources
 
-- CLI repo: <a href="https://github.com/thirdweb-dev/js/tree/main/packages/cli">CLI</a>
-- Dashboard repo: <a href="https://github.com/thirdweb-dev/dashboard">Dashboard</a>
-- Learn how to <a href="https://portal.thirdweb.com/release">Release</a> and <a href="https://portal.thirdweb.com/deploy">Deploy</a> smart contracts
+- [Documentation](https://linktodocumentation)
+- [Dashboard](https://thirdweb.com/dashboard)
+- [Templates](https://thirdweb.com/templates)
+- [YouTube](https://www.youtube.com/@thirdweb_)
 
-## Create Apps
-
-- JavaScript Monorepo: <a href="https://github.com/thirdweb-dev/js">Monorepo</a>
-- SDK repos: <a href="https://github.com/thirdweb-dev/js/tree/main/packages/sdk">TypeScript</a> • <a href="https://github.com/thirdweb-dev/js/tree/main/packages/react">React</a> • <a href="https://github.com/thirdweb-dev/python-sdk">Python</a> • <a href="https://github.com/thirdweb-dev/go-sdk">Go</a> 
-- Learn about our SDK: <a href="https://portal.thirdweb.com/sdk">SDK Docs</a>
-
-## Example Projects 
-
-Looking for example projects to get started with?
-
-Check out our [template repositories](https://github.com/thirdweb-example).
 
 ## Contributing
 
-We welcome contributions from all developers, regardless of experience level. If you are interested in contributing, please read our [JS Monorepo Contributing Guide](https://github.com/thirdweb-dev/js/blob/main/.github/contributing.md) where you'll learn how the repo works, how to test your changes, and how to submit a pull request.
+All of our repositories are open source. Please see the corresponding `contributing.md` in each repository to get started. 
+
+
+## Security
+
+If you believe you have found a security vulnerability in any of our packages, we kindly ask you not to open a public issue; and to disclose this to us by emailing security@thirdweb.com.
+## Support
+
+For help or feedback, please [visit our support site](https://thirdweb.com/support).
+
+
 
 We're working on contributing guidelines. Stay tuned or join our [Discord](https://discord.com/invite/thirdweb) for more info.
 
