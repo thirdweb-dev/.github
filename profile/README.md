@@ -14,13 +14,16 @@
 
 ## Client Platforms
 
-- [Typescript](https://github.com/thirdweb-dev/js/tree/main/packages/sdk)
-- [React](https://github.com/thirdweb-dev/js/tree/main/packages/react)
-- [React Native](https://github.com/thirdweb-dev/js/tree/main/packages/react-native)
-- [Unity](https://github.com/thirdweb-dev/unity)
-- Unreal (coming soon)
-- Android (coming soon)
-- iOS (coming soon)
+| | Platform                                          | Documentation | 
+| ----- | --------------------------------------------------- | ---------- |
+| ![TS](https://skillicons.dev/icons?i=ts) | [TypeScript](https://github.com/thirdweb-dev/js/tree/main/packages/sdk) | [View Docs](https://portal.thirdweb.com/typescript/v5)   | 
+| ![R](https://skillicons.dev/icons?i=react) | [React](https://github.com/thirdweb-dev/js/tree/main/packages/react) | [View Docs](https://portal.thirdweb.com/typescript/v5/react)      | 
+| ![RN](https://skillicons.dev/icons?i=react) | [React Native](https://github.com/thirdweb-dev/js/tree/main/packages/react-native)      | [View Docs](https://portal.thirdweb.com/react-native/v0)    |
+| ![U](https://skillicons.dev/icons?i=unity) | [Unity](https://github.com/thirdweb-dev/unity-sdk)       | [View Docs](https://portal.thirdweb.com/unity)     |
+| ![UR](https://skillicons.dev/icons?i=unreal) | Unreal (Coming Soon)      | --    |
+| ![And](https://skillicons.dev/icons?i=androidstudio) | Android (Coming Soon)      | --    |
+| ![App](https://skillicons.dev/icons?i=apple) | iOS (Coming Soon)      | --     |
+
 
 ## Resources
 
