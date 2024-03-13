@@ -4,15 +4,24 @@
 
 # thirdweb
 
-Open source full-stack web3 development platform.
+Open source, full-stack web3 development platform.
 
-## Products
+| Stack      | Repository | Features |
+| ---------- | ---------- | -------- |
+| Frontend   | [Connect](https://github.com/thirdweb-dev/js) | Embedded wallets, account abstraction, auth, contract interaction, storage, UI components and more |
+| Backend   | [Engine](https://github.com/thirdweb-dev/js) | Docker container for REST API for transactions, wallet and nonce management, webhooks and more |
+| Onchain   | [Contracts](https://github.com/thirdweb-dev/contracts) | Catalog of prebuilt contracts, Solidity SDK, deployment tools and more |
 
-- [Connect](https://github.com/thirdweb-dev/js): Customizable Connect Wallet modal, embedded wallets for flexible sign-in options, and account abstraction for the smoothest user experiences.
-- [Contracts](https://github.com/thirdweb-dev/contracts): Solidity SDK to build custom contracts, a library of pre-built & audited contracts, and a 1-click deployment flow to any EVM-compatible blockchains.
-- [Engine](https://github.com/thirdweb-dev/engine): Backend wallet creation, nonce management, smart contract interactions, account abstraction support, gasless transactions, and managed infrastructure.
+## Client Platforms
 
-  
+- [Typescript](https://github.com/thirdweb-dev/js/sdk)
+- [React](https://github.com/thirdweb-dev/js/react)
+- [React Native](https://github.com/thirdweb-dev/react-native)
+- [Unity](https://github.com/thirdweb-dev/js/unity)
+- Unreal (coming soon)
+- Android (coming soon)
+- iOS (coming soon)
+
 ## Resources
 
 - [Documentation](https://linktodocumentation)
