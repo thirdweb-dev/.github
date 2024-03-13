@@ -4,7 +4,7 @@
 
 # thirdweb
 
-The full-stack web3 development platform.
+Open source full-stack web3 development platform.
 
 ## Products
 
