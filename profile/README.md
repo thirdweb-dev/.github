@@ -16,7 +16,7 @@
 
 - [Typescript](https://github.com/thirdweb-dev/js/tree/main/packages/sdk)
 - [React](https://github.com/thirdweb-dev/js/tree/main/packages/react)
-- [React Native](https://github.com/thirdweb-dev/tree/main/packages/react-native)
+- [React Native](https://github.com/thirdweb-dev/js/tree/main/packages/react-native)
 - [Unity](https://github.com/thirdweb-dev/unity)
 - Unreal (coming soon)
 - Android (coming soon)
