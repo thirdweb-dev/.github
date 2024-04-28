@@ -28,7 +28,7 @@
 
 ## Resources
 
-- [Documentation](https://linktodocumentation)
+- [Documentation](https://portal.thirdweb.com)
 - [Dashboard](https://thirdweb.com/dashboard)
 - [Templates](https://thirdweb.com/templates)
 - [YouTube](https://www.youtube.com/@thirdweb_)
