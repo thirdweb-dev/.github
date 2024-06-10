@@ -16,9 +16,9 @@
 
 | | Platform                                          | Version | Documentation | 
 | ----- | --------------------------------------------------- | ---------- | ---- |
-| ![TS](https://skillicons.dev/icons?i=ts) | [TypeScript](https://github.com/thirdweb-dev/js/tree/main/packages/sdk) | [![npm version](https://badge.fury.io/js/thirdweb.svg)](https://badge.fury.io/js/thirdweb) | [View Docs](https://portal.thirdweb.com/typescript/v5)   | 
-| ![R](https://skillicons.dev/icons?i=react) | [React](https://github.com/thirdweb-dev/js/tree/main/packages/react) | [![npm version](https://badge.fury.io/js/thirdweb.svg)](https://badge.fury.io/js/thirdweb) | [View Docs](https://portal.thirdweb.com/typescript/v5/react)      | 
-| ![RN](https://skillicons.dev/icons?i=react) | [React Native](https://github.com/thirdweb-dev/js/tree/main/packages/react-native-adapter) | [![npm version](https://badge.fury.io/js/@thirdweb-dev%2Freact-native.svg)](https://badge.fury.io/js/@thirdweb-dev%2Freact-native)| [View Docs](https://portal.thirdweb.com/typescript/v5/react-native)    |
+| ![TS](https://skillicons.dev/icons?i=ts) | [TypeScript](https://github.com/thirdweb-dev/js) | [![npm version](https://badge.fury.io/js/thirdweb.svg)](https://badge.fury.io/js/thirdweb) | [View Docs](https://portal.thirdweb.com/typescript/v5)   | 
+| ![R](https://skillicons.dev/icons?i=react) | [React](https://github.com/thirdweb-dev/js) | [![npm version](https://badge.fury.io/js/thirdweb.svg)](https://badge.fury.io/js/thirdweb) | [View Docs](https://portal.thirdweb.com/typescript/v5/react)      | 
+| ![RN](https://skillicons.dev/icons?i=react) | [React Native](https://github.com/thirdweb-dev/js) | [![npm version](https://badge.fury.io/js/@thirdweb-dev%2Freact-native.svg)](https://badge.fury.io/js/@thirdweb-dev%2Freact-native)| [View Docs](https://portal.thirdweb.com/typescript/v5/react-native)    |
 | ![U](https://skillicons.dev/icons?i=unity) | [Unity](https://github.com/thirdweb-dev/unity-sdk)      | [View Latest](https://github.com/thirdweb-dev/unity-sdk/releases/latest) | [View Docs](https://portal.thirdweb.com/unity)     |
 | ![U](https://skillicons.dev/icons?i=dotnet) | [.NET](https://github.com/thirdweb-dev/thirdweb-dotnet)      | [View Latest](https://github.com/thirdweb-dev/thirdweb-dotnet/tags) | [View Docs](https://portal.thirdweb.com/dotnet)     |
 | ![UR](https://skillicons.dev/icons?i=unreal) | Unreal (Coming Soon)      | -- |--    |
