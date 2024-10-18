@@ -21,7 +21,7 @@
 | ![RN](https://skillicons.dev/icons?i=react) | [React Native](https://github.com/thirdweb-dev/js) | [![npm version](https://badge.fury.io/js/@thirdweb-dev%2Freact-native.svg)](https://badge.fury.io/js/@thirdweb-dev%2Freact-native)| [View Docs](https://portal.thirdweb.com/typescript/v5/react-native)    |
 | ![U](https://skillicons.dev/icons?i=dotnet) | [.NET](https://github.com/thirdweb-dev/thirdweb-dotnet)      | [![NuGet version](https://badge.fury.io/nu/Thirdweb.svg)](https://badge.fury.io/nu/Thirdweb) | [View Docs](https://portal.thirdweb.com/dotnet)     |
 | ![U](https://skillicons.dev/icons?i=unity) | [Unity](https://github.com/thirdweb-dev/unity-sdk)      | [View Latest](https://github.com/thirdweb-dev/unity-sdk/releases/latest) | [View Docs](https://portal.thirdweb.com/unity)     |
-| ![UR](https://skillicons.dev/icons?i=unreal) | Unreal (Coming Soon)      | -- |--    |
+| ![UR](https://skillicons.dev/icons?i=unreal) | [Unreal Engine](https://github.com/thirdweb-dev/unreal-sdk) | [![GitHub Release](https://img.shields.io/github/v/release/thirdweb-dev/unreal-sdk?label=marketplace%20plugin&color=4ec820)](https://www.unrealengine.com/marketplace/en-US/product/f21200c2610146f3888172994448e50d) | [View Docs](https://portal.thirdweb.com/unreal-engine) |
 | ![And](https://skillicons.dev/icons?i=androidstudio) | Android (Coming Soon) | --     | --    |
 | ![App](https://skillicons.dev/icons?i=apple) | iOS (Coming Soon)      | -- | --     |
 
