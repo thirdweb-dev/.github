@@ -28,9 +28,9 @@
 
 ## Supported Networks
 
-![supported-chains](https://github.com/user-attachments/assets/2725c0d4-da98-4cfa-b4f9-e0446782bac5)
-
 thirdweb is supported on every EVM compatible chain. To view the full list, visit [thirdweb chainlist](https://thirdweb.com/chainlist).
+
+![supported-chains](https://github.com/user-attachments/assets/2725c0d4-da98-4cfa-b4f9-e0446782bac5)
 
 ## Resources
 
@@ -39,11 +39,9 @@ thirdweb is supported on every EVM compatible chain. To view the full list, visi
 - [Templates](https://thirdweb.com/templates)
 - [YouTube](https://www.youtube.com/@thirdweb_)
 
-
 ## Contributing
 
 All of our repositories are open source. Please see the corresponding `contributing.md` in each repository to get started. 
-
 
 ## Security
 
