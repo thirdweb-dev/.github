@@ -1,16 +1,17 @@
 <!-- Banner Image -->
-
-![Thirdweb Examples Header](header-image.png)
+<img width="1500" alt="twitw-banner-new" src="https://github.com/user-attachments/assets/95487a2f-1fdc-4f93-8a6a-fbfd901d7123" />
 
 # thirdweb
 
 ### Open source, full-stack web3 development platform.
 
-| Stack      | Repository | Features |
+| Category      | Repository | Features |
 | ---------- | ---------- | -------- |
-| Frontend   | [Connect](https://github.com/thirdweb-dev/js) | Embedded wallets, account abstraction, auth, contract interaction, storage, UI components and more |
-| Backend   | [Engine](https://github.com/thirdweb-dev/engine) | Docker container for REST API for transactions, wallet and nonce management, webhooks and more |
-| Onchain   | [Contracts](https://github.com/thirdweb-dev/contracts) | Catalog of prebuilt contracts, Solidity SDK, deployment tools and more |
+| Developer Tools   | [Connect](https://github.com/thirdweb-dev/js) | Embedded wallets, account abstraction, auth, contract interaction, storage, UI components and more |
+| Developer Tools   | [Engine](https://github.com/thirdweb-dev/engine) | Docker container for REST API for transactions, wallet and nonce management, webhooks and more |
+| Developer Tools   | [Contracts](https://github.com/thirdweb-dev/contracts) | Catalog of prebuilt contracts, Solidity SDK, deployment tools and more |
+| Data & Analytics  | [Insight](https://github.com/thirdweb-dev/insight) | Blockchain data processing tool designed to fetch, process, and store on-chain data |
+| AI | [Nebula](https://thirdweb.com/nebula) | AI-powered interface that enables interactions with blockchains through natural language |
 
 ## Client Platforms
 
