@@ -26,6 +26,11 @@
 | ![And](https://skillicons.dev/icons?i=androidstudio) | Android (Coming Soon) | --     | --    |
 | ![App](https://skillicons.dev/icons?i=apple) | iOS (Coming Soon)      | -- | --     |
 
+## Supported Networks
+
+![supported-chains](https://github.com/user-attachments/assets/2725c0d4-da98-4cfa-b4f9-e0446782bac5)
+
+thirdweb is supported on every EVM compatible chain. To view the full list, visit [thirdweb chainlist](https://thirdweb.com/chainlist).
 
 ## Resources
 
