@@ -1,5 +1,6 @@
 <!-- Banner Image -->
-<img width="1500" alt="twitw-banner-new" src="https://github.com/user-attachments/assets/95487a2f-1fdc-4f93-8a6a-fbfd901d7123" />
+
+<img width="1500" alt="twitter-banner-new" src="https://github.com/user-attachments/assets/18d28975-41d6-47bd-a3e1-d492077a9971" />
 
 # thirdweb
 
