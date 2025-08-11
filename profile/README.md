@@ -1,20 +1,29 @@
 <!-- Banner Image -->
-
-<img width="1500" alt="twitter-banner-new" src="https://github.com/user-attachments/assets/18d28975-41d6-47bd-a3e1-d492077a9971" />
+<img width="3000" height="1000" alt="twitter-banner" src="https://github.com/user-attachments/assets/07191ce9-3e4a-4c88-adef-640a4f249a01" />
 
 # thirdweb
 
-### Open source, full-stack web3 development platform.
+### Open source, full-stack web3 development platform with tools for building, monetizing, and scaling applications.
 
 | Category      | Repository | Features |
 | ---------- | ---------- | -------- |
-| Developer Tools   | [Connect](https://github.com/thirdweb-dev/js) | Embedded wallets, account abstraction, auth, contract interaction, storage, UI components and more |
-| Developer Tools   | [Engine](https://github.com/thirdweb-dev/engine) | Docker container for REST API for transactions, wallet and nonce management, webhooks and more |
-| Developer Tools   | [Contracts](https://github.com/thirdweb-dev/contracts) | Catalog of prebuilt contracts, Solidity SDK, deployment tools and more |
-| Data & Analytics  | [Insight](https://github.com/thirdweb-dev/insight) | Blockchain data processing tool designed to fetch, process, and store on-chain data |
-| AI | [Nebula](https://thirdweb.com/nebula) | AI-powered interface that enables interactions with blockchains through natural language |
+| Build   | [Wallets](https://github.com/thirdweb-dev/js) | Embedded wallets, account abstraction, auth, contract interaction, storage, UI components and more |
+| Build   | [Contracts](https://github.com/thirdweb-dev/contracts) | Catalog of prebuilt contracts, Solidity SDK, deployment tools and more |
+| Build   | [Transactions](https://github.com/thirdweb-dev/engine) | Docker container for REST API for transactions, wallet and nonce management, webhooks and more |
+| Monetize  | [Payments](https://github.com/thirdweb-dev/js/tree/main/packages/thirdweb/src/bridge) | Complete payment solution with integrated fiat on-ramp,  |
+| Monetize  | Tokens | Deploy ERC-20, ERC-721, and ERC-1155 tokens with simple configuration, distribution, and listing to marketplaces |
+| Scale  | [Insight](https://github.com/thirdweb-dev/insight) | Real-time on-chain data through REST APIs with flexibility of subgraphs  |
+| Scale  | Account Abstraction | Gas sponsorship through smart wallets with EIP-4337 or EIP-7702 |
+| Scale  | RPC | High-performance access to blockchain networks through globally distributed edge servers |
+| Scale  | Vault | Non-custodial, secure key management service for securing server or developer wallets |
 
-## Client Platforms
+## APIs
+| Platform     | Documentation                                      |
+|--------------|----------------------------------------------------|
+| thirdweb API | [View reference](https://api.thirdweb.com/reference) |
+
+
+## SDKs
 
 | | Platform                                          | Version | Documentation | 
 | ----- | --------------------------------------------------- | ---------- | ---- |
@@ -24,8 +33,6 @@
 | ![U](https://skillicons.dev/icons?i=dotnet) | [.NET](https://github.com/thirdweb-dev/thirdweb-dotnet)      | [![NuGet version](https://badge.fury.io/nu/Thirdweb.svg)](https://badge.fury.io/nu/Thirdweb) | [View Docs](https://portal.thirdweb.com/dotnet)     |
 | ![U](https://skillicons.dev/icons?i=unity) | [Unity](https://github.com/thirdweb-dev/unity-sdk)      | [View Latest](https://github.com/thirdweb-dev/unity-sdk/releases/latest) | [View Docs](https://portal.thirdweb.com/unity)     |
 | ![UR](https://skillicons.dev/icons?i=unreal) | [Unreal Engine](https://github.com/thirdweb-dev/unreal-sdk) | [![GitHub Release](https://img.shields.io/github/v/release/thirdweb-dev/unreal-sdk?label=marketplace%20plugin&color=4ec820)](https://www.unrealengine.com/marketplace/en-US/product/f21200c2610146f3888172994448e50d) | [View Docs](https://portal.thirdweb.com/unreal-engine) |
-| ![And](https://skillicons.dev/icons?i=androidstudio) | Android (Coming Soon) | --     | --    |
-| ![App](https://skillicons.dev/icons?i=apple) | iOS (Coming Soon)      | -- | --     |
 
 ## Supported Networks
 
@@ -50,5 +57,5 @@ If you believe you have found a security vulnerability in any of our packages, w
 
 ## Support
 
-For help or feedback, please [visit our support site](https://thirdweb.com/support).
+For any help or feedback, please [create a ticket on your thirdweb dashboard](https://thirdweb.com/support).
 
